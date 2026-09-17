@@ -4,7 +4,9 @@
 
 **米歇尔·巴德利《行为经济学》——14 个认知偏差，全部扔进 AI 沙盘里被极限施压之后，留下的那份记录。**
 
-> **EN** · A decision-training archive built by throwing Michelle Baddeley's *Behavioural Economics: A Very Short Introduction* into an AI wargaming loop — 14 cognitive-bias concepts, each split into **"what the book actually says"** vs **"how it rewired my decisions"**, plus a 24-rule behavioural-finance risk-control pipeline you can paste into a trading agent. Written in Simplified Chinese.
+🌐 **简体中文** ｜ [English edition](./en/README.md)
+
+> **EN** · A decision-training archive built by throwing Michelle Baddeley's *Behavioural Economics: A Very Short Introduction* into an AI wargaming loop — 14 cognitive-bias concepts, each split into **"what the book actually says"** vs **"how it rewired my decisions"**, plus a 24-rule behavioural-finance risk-control pipeline you can paste into a trading agent. Written in Simplified Chinese, with a condensed [English edition](./en/README.md).
 
 ![主题](https://img.shields.io/badge/%E4%B8%BB%E9%A2%98-14_%E4%B8%AA-1f6feb?style=flat-square)
 ![字数](https://img.shields.io/badge/%E5%AD%97%E6%95%B0-%E7%BA%A6_4.9_%E4%B8%87-2ea043?style=flat-square)
