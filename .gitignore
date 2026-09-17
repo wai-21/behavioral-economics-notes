@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# 编辑器与 IDE
+.vscode/
+.idea/
+*.swp
+
+# 临时文件
+*.tmp
+*.bak
