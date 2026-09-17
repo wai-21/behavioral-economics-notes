@@ -250,7 +250,7 @@ flowchart TD
 
 ## 📄 授权
 
-- **笔记正文**（我的演化与实践部分）：[CC BY-NC-SA 4.0](LICENSE)
+- **笔记正文**（我的演化与实践部分）：[CC BY-NC-SA 4.0](https://github.com/wai-21/behavioral-economics-notes/blob/main/LICENSE)
 - **原书观点与引文**：版权归 Michelle Baddeley 及译林出版社所有，此处仅作学习评论之用
 
 ---
