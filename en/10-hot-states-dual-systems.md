@@ -5,7 +5,7 @@ description: Kahneman's dual-process theory and Loewenstein's hot-cold empathy g
 keywords: dual system theory, system 1 system 2, hot cold empathy gap, Loewenstein, cognitive reflection test, bat and ball, impulse buying anger
 alternates:
   en: /en/10-hot-states-dual-systems.html
-  zh-CN: /docs/10-冷热状态-双系统-生气时下单为什么隔天就后悔.md
+  zh-CN: /docs/10-冷热状态-双系统-生气时下单为什么隔天就后悔.html
 ---
 
 > [📚 Index](README.md) · [⬅️ Previous](09-status-quo-bias-endowment-effect.md) · [Next ➡️](11-altruistic-punishment-ultimatum-game.md)

@@ -5,7 +5,7 @@ description: The 16-question self-test pack reconstructed from the wargame quizz
 keywords: behavioral economics quiz, cognitive bias self test, prospect theory quiz, CRT bat and ball, nudge blueprint, anti marketing tricks checklist
 alternates:
   en: /en/D-self-test-blueprints.html
-  zh-CN: /docs/D-附录C-16题自测包与两张施工图.md
+  zh-CN: /docs/D-附录C-16题自测包与两张施工图.html
 ---
 
 > [📚 Index](README.md) · [⬅️ Previous](C-bibliography-verification.md) · [Next ➡️](Z-closing.md)

@@ -5,7 +5,7 @@ description: Thaler & Sunstein's nudge theory — opt-in vs opt-out consent rate
 keywords: nudge theory, choice architecture, Thaler Sunstein, default options, organ donation opt out, Save More Tomorrow, habit stacking, bedtime routine design
 alternates:
   en: /en/13-nudge-choice-architecture.html
-  zh-CN: /docs/13-助推-选择架构-器官捐赠默认选项与熬夜助推闭环.md
+  zh-CN: /docs/13-助推-选择架构-器官捐赠默认选项与熬夜助推闭环.html
 ---
 
 > [📚 Index](README.md) · [⬅️ Previous](12-animal-spirits-beauty-contest.md) · [Next ➡️](14-behavioral-audit-agent-filter.md)

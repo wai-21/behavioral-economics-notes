@@ -5,7 +5,7 @@ description: Three sentences the whole archive compresses into — bias is an en
 keywords: debiasing conclusion, environment over willpower, decision audit, behavioral economics takeaways
 alternates:
   en: /en/Z-closing.html
-  zh-CN: /docs/Z-收束-这份笔记真正改变的东西.md
+  zh-CN: /docs/Z-收束-这份笔记真正改变的东西.html
 ---
 
 > [📚 Index](README.md) · [⬅️ Previous](D-self-test-blueprints.md) · [🇨🇳 中文完整版](../README.md)

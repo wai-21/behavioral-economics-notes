@@ -5,7 +5,7 @@ description: Time inconsistency and present bias — preferences flip as choices
 keywords: time inconsistency, present bias, precommitment device, gym membership, Odysseus, Kenya fertilizer voucher, Duflo Kremer, habit stacking
 alternates:
   en: /en/08-time-inconsistency-precommitment.html
-  zh-CN: /docs/08-时间不一致性-当前偏差-健身房年卡与限时肥料券.md
+  zh-CN: /docs/08-时间不一致性-当前偏差-健身房年卡与限时肥料券.html
 ---
 
 > [📚 Index](README.md) · [⬅️ Previous](07-mental-accounting.md) · [Next ➡️](09-status-quo-bias-endowment-effect.md)

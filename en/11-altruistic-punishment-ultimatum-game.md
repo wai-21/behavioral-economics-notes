@@ -5,7 +5,7 @@ description: Inequity aversion and altruistic punishment in the ultimatum game �
 keywords: ultimatum game, altruistic punishment, inequity aversion, Fehr Gachter, revenge trading, short squeeze, fairness in markets
 alternates:
   en: /en/11-altruistic-punishment-ultimatum-game.html
-  zh-CN: /docs/11-社会偏好-利他惩罚-最后通牒博弈与报复性交易.md
+  zh-CN: /docs/11-社会偏好-利他惩罚-最后通牒博弈与报复性交易.html
 ---
 
 > [📚 Index](README.md) · [⬅️ Previous](10-hot-states-dual-systems.md) · [Next ➡️](12-animal-spirits-beauty-contest.md)

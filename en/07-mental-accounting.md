@@ -5,7 +5,7 @@ description: Richard Thaler's mental accounting — money is fungible on the boo
 keywords: mental accounting, Richard Thaler, windfall money, free shipping threshold, points vs cash discount, fungibility of money
 alternates:
   en: /en/07-mental-accounting.html
-  zh-CN: /docs/07-心理账户-横财与血汗钱-满500免运费为什么让你多花.md
+  zh-CN: /docs/07-心理账户-横财与血汗钱-满500免运费为什么让你多花.html
 ---
 
 > [📚 Index](README.md) · [⬅️ Previous](06-prospect-theory-loss-aversion.md) · [Next ➡️](08-time-inconsistency-precommitment.md)

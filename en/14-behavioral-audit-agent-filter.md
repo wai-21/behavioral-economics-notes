@@ -5,7 +5,7 @@ description: Knowing your biases is useless until they become items someone else
 keywords: behavioral audit, cognitive bias checklist, trading agent rules, bias detection matrix, debiasing, decision filter, cool state enforcement
 alternates:
   en: /en/14-behavioral-audit-agent-filter.html
-  zh-CN: /docs/14-行为金融审计-24条规则-把偏差做成Agent滤网.md
+  zh-CN: /docs/14-行为金融审计-24条规则-把偏差做成Agent滤网.html
 ---
 
 > [📚 Index](README.md) · [⬅️ Previous](13-nudge-choice-architecture.md) · [Next ➡️](A-24-risk-rules.md)

@@ -5,7 +5,7 @@ description: The Israeli daycare fine experiment (Gneezy & Rustichini) — monet
 keywords: crowding out effect, daycare fine experiment, Gneezy Rustichini, intrinsic motivation, extrinsic incentives, incentive design
 alternates:
   en: /en/02-crowding-out-fine.html
-  zh-CN: /docs/02-动机与激励-挤出效应-托儿所罚款为何让迟到更多.md
+  zh-CN: /docs/02-动机与激励-挤出效应-托儿所罚款为何让迟到更多.html
 ---
 
 > [📚 Index](README.md) · [⬅️ Previous](01-bounded-rationality.md) · [Next ➡️](03-herding-informational-cascade.md)

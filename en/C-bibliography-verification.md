@@ -5,7 +5,7 @@ description: Full bibliographic record for Michelle Baddeley's "Behavioural Econ
 keywords: Michelle Baddeley, Behavioural Economics Very Short Introduction, Oxford University Press 2017, ISBN 9780198754992, Yilin bilingual edition, concept attribution verification
 alternates:
   en: /en/C-bibliography-verification.html
-  zh-CN: /docs/C-附录B-书目信息与数据核验.md
+  zh-CN: /docs/C-附录B-书目信息与数据核验.html
 ---
 
 > [📚 Index](README.md) · [⬅️ Previous](B-method-boundary.md) · [Next ➡️](D-self-test-blueprints.md)

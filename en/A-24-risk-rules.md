@@ -5,7 +5,7 @@ description: The full 24-rule behavioural-finance risk pipeline in four modules 
 keywords: behavioral finance rules, trading risk checklist, trading discipline rules, stop loss rules, revenge trading, probability weighting, agent prompt risk module
 alternates:
   en: /en/A-24-risk-rules.html
-  zh-CN: /docs/A-附录A-24条行为金融风控规则.md
+  zh-CN: /docs/A-附录A-24条行为金融风控规则.html
 ---
 
 > [📚 Index](README.md) · [⬅️ Previous](14-behavioral-audit-agent-filter.md) · [Next ➡️](B-method-boundary.md)

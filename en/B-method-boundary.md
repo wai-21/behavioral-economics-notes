@@ -5,7 +5,7 @@ description: What this archive can and cannot support — the source is a dialog
 keywords: methodology limitations, book notes verification, confidence levels, guided learning bias, untested trading rules
 alternates:
   en: /en/B-method-boundary.html
-  zh-CN: /docs/B-方法论边界与已知盲区.md
+  zh-CN: /docs/B-方法论边界与已知盲区.html
 ---
 
 > [📚 Index](README.md) · [⬅️ Previous](A-24-risk-rules.md) · [Next ➡️](C-bibliography-verification.md)

@@ -5,7 +5,7 @@ description: Tversky & Kahneman's availability heuristic — we estimate probabi
 keywords: availability heuristic, availability bias, Tversky Kahneman, plane crash fear, weak passwords, media reporting bias
 alternates:
   en: /en/04-availability-heuristic.html
-  zh-CN: /docs/04-可得性捷思-空难新闻与密码为什么都是123456.md
+  zh-CN: /docs/04-可得性捷思-空难新闻与密码为什么都是123456.html
 ---
 
 > [📚 Index](README.md) · [⬅️ Previous](03-herding-informational-cascade.md) · [Next ➡️](05-anchoring-decoy-rule-of-100.md)

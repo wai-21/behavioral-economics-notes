@@ -5,7 +5,7 @@ description: Keynes's animal spirits, social mood, and the beauty-contest theory
 keywords: animal spirits, Keynes, beauty contest theory, tulip mania, narrative economics, Shiller, irrational exuberance, market sentiment dashboard
 alternates:
   en: /en/12-animal-spirits-beauty-contest.html
-  zh-CN: /docs/12-动物精神-叙事泡沫-选美理论-郁金香与单边共识.md
+  zh-CN: /docs/12-动物精神-叙事泡沫-选美理论-郁金香与单边共识.html
 ---
 
 > [📚 Index](README.md) · [⬅️ Previous](11-altruistic-punishment-ultimatum-game.md) · [Next ➡️](13-nudge-choice-architecture.md)

@@ -5,7 +5,7 @@ description: Why queues work as information, why informational cascades destroy 
 keywords: herding effect, informational cascade, social learning, herd behavior investing, queue psychology, independent judgment
 alternates:
   en: /en/03-herding-informational-cascade.html
-  zh-CN: /docs/03-羊群效应-资讯级联-排队越长的餐厅越好吃吗.md
+  zh-CN: /docs/03-羊群效应-资讯级联-排队越长的餐厅越好吃吗.html
 ---
 
 > [📚 Index](README.md) · [⬅️ Previous](02-crowding-out-fine.md) · [Next ➡️](04-availability-heuristic.md)

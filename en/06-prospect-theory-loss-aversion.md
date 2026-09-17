@@ -5,7 +5,7 @@ description: Kahneman & Tversky's prospect theory — value is measured against 
 keywords: prospect theory, loss aversion, reflection effect, disposition effect, Kahneman Tversky, stop loss discipline, averaging down
 alternates:
   en: /en/06-prospect-theory-loss-aversion.html
-  zh-CN: /docs/06-前景理论-损失厌恶-为什么赔钱的痛是赚钱两倍.md
+  zh-CN: /docs/06-前景理论-损失厌恶-为什么赔钱的痛是赚钱两倍.html
 ---
 
 > [📚 Index](README.md) · [⬅️ Previous](05-anchoring-decoy-rule-of-100.md) · [Next ➡️](07-mental-accounting.md)

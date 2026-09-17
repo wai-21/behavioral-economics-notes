@@ -5,7 +5,7 @@ description: Anchoring and adjustment, the decoy effect (asymmetric dominance), 
 keywords: anchoring effect, decoy effect, asymmetric dominance, rule of 100 pricing, strike-through price, add-on impulse buying
 alternates:
   en: /en/05-anchoring-decoy-rule-of-100.html
-  zh-CN: /docs/05-锚定效应-诱饵效应-100规则-1000元原价是怎样骗你的.md
+  zh-CN: /docs/05-锚定效应-诱饵效应-100规则-1000元原价是怎样骗你的.html
 ---
 
 > [📚 Index](README.md) · [⬅️ Previous](04-availability-heuristic.md) · [Next ➡️](06-prospect-theory-loss-aversion.md)

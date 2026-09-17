@@ -5,7 +5,7 @@ description: The free-trial combo punch — endowment effect plus status-quo bia
 keywords: status quo bias, endowment effect, free trial auto renewal, default options, zero-based question, subscription audit
 alternates:
   en: /en/09-status-quo-bias-endowment-effect.html
-  zh-CN: /docs/09-现状偏差-禀赋效应-免费试用为何退不掉.md
+  zh-CN: /docs/09-现状偏差-禀赋效应-免费试用为何退不掉.html
 ---
 
 > [📚 Index](README.md) · [⬅️ Previous](08-time-inconsistency-precommitment.md) · [Next ➡️](10-hot-states-dual-systems.md)
